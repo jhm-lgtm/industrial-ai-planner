@@ -53,11 +53,4 @@ AI Industry Planner uses artificial intelligence to:
 (Add your project link here)
 
 
-##  Future Improvements
-
-* Resume-based industry suggestion
-* Skill gap analysis
-* AI interview preparation
-* Mobile app version
-
 
