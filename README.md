@@ -10,10 +10,12 @@ AI Industry Planner is an intelligent platform designed to help users explore in
 *  Industry trend insights
 *  Personalized suggestions
 *  User-friendly interface
+  
 
 ##  Problem Statement
 
 Students and job seekers often struggle to choose the right industry due to lack of proper guidance and industry knowledge.
+
 
 ##  Solution
 
@@ -24,12 +26,14 @@ AI Industry Planner uses artificial intelligence to:
 * Provide career planning roadmap
 * Offer industry insights
 
+
 ##  Tech Stack
 
 * Frontend: HTML, CSS, JavaScript
 * AI Integration: LLM / Chatbot
 * Platform: Web-based application
 * Tools: GitHub, Framer (optional)
+
 
 ##  Use Cases
 
@@ -38,9 +42,11 @@ AI Industry Planner uses artificial intelligence to:
 * Professionals planning industry switch
 * Career guidance support
 
+
 ##  Screenshots
 
 (Add screenshots here)
+
 
 ##  Live Demo
 
