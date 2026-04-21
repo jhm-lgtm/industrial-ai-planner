@@ -1,58 +1,57 @@
-#  AI Planner
+#  AI Industry Planner
 
-An AI-powered planner that helps users organize tasks, plan schedules, and improve productivity using intelligent suggestions.
+AI Industry Planner is an intelligent platform designed to help users explore industries, plan careers, and receive AI-powered guidance based on skills, interests, and goals.
 
 ##  Features
 
-*  Smart task planning
-*  Daily schedule generator
-*  AI-based recommendations
-*  Priority-based task sorting
-*  Productivity tracking
-*  Responsive design (mobile + desktop)
+*  AI-based industry recommendations
+*  Skill-to-industry matching
+*  Career planning roadmap
+*  Industry trend insights
+*  Personalized suggestions
+*  User-friendly interface
 
 ##  Problem Statement
 
-Students and professionals often struggle with managing tasks efficiently. Manual planning takes time and lacks intelligent prioritization.
+Students and job seekers often struggle to choose the right industry due to lack of proper guidance and industry knowledge.
 
 ##  Solution
 
-AI Planner uses artificial intelligence to:
+AI Industry Planner uses artificial intelligence to:
 
-* Automatically generate schedules
-* Suggest task priorities
-* Optimize daily workflow
-* Improve productivity
+* Suggest suitable industries
+* Analyze user interests and skills
+* Provide career planning roadmap
+* Offer industry insights
 
 ##  Tech Stack
 
 * Frontend: HTML, CSS, JavaScript
-* AI Integration: Chatbase / OpenAI API
-* Hosting: GitHub Pages / Framer
-* Backend (optional): Firebase / Node.js
+* AI Integration: LLM / Chatbot
+* Platform: Web-based application
+* Tools: GitHub, Framer (optional)
 
 ##  Use Cases
 
-* Students planning study schedules
-* Professionals managing work tasks
-* Personal productivity tracking
-* Goal-based planning
+* Students selecting career industries
+* Freshers exploring job domains
+* Professionals planning industry switch
+* Career guidance support
 
-##  Demo
+##  Screenshots
 
 (Add screenshots here)
 
-## 🔗 Live Project
+##  Live Demo
 
-(Add your website link here)
-
+(Add your project link here)
 
 
 ##  Future Improvements
 
-* Voice-based planning
-* Calendar integration
+* Resume-based industry suggestion
+* Skill gap analysis
+* AI interview preparation
 * Mobile app version
-* Smart reminders
 
 
